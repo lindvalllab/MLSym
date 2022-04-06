@@ -1,3 +1,8 @@
+"""
+Copyright 2022, Dana-Farber Cancer Institute
+License: GNU GPL 2.0
+"""
+# import relavant libraries
 import torch
 from torch.utils.data import (DataLoader, RandomSampler, SequentialSampler,
                               TensorDataset)
