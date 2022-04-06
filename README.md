@@ -66,9 +66,21 @@ Use raw csv files with a column containing clinical note - no need to convert in
 python inference/run_and_predict.py -ipf {location of the input file} -opf {location of dummy output file} -cn {name of the column containing the clinical note}
 ```
 
-
 ## Copyright
 All codes are modified from
 - [Label-studio-transformers](https://github.com/heartexlabs/label-studio-transformers)
 - [GraphIE](https://github.com/thomas0809/GraphIE/tree/master/word-level)
 - [huggingface](https://github.com/huggingface/transformers)
+
+# License
+
+The GNU GPL v2 version of PathML is made available via Open Source licensing. 
+The user is free to use, modify, and distribute under the terms of the GNU General Public License version 2.
+
+Commercial license options are available also.
+
+# Contact
+
+Questions? Comments? Suggestions? Get in touch!
+
+[CHARLOTTA_LINDVALL@DFCI.HARVARD.EDU](mailto:CHARLOTTA_LINDVALL@DFCI.HARVARD.EDU)
