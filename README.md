@@ -1,3 +1,7 @@
+# Overview
+
+This repository is a research work by Lindvall Lab at Dana-Farber Cancer Institute on extracting present/current symptoms reported by the patients from their electronic health record (EHR). Symptoms are vital outcomes for cancer clinical trials, observational research, and population-level surveillance. We sought to develop, test, and externally validate a deep learning model to extract symptoms from unstructured clinical notes in the electronic health record (EHR).
+
 # Project Pipeline
 
 - Processing
