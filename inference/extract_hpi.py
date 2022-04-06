@@ -1,3 +1,8 @@
+"""
+Copyright 2022, Dana-Farber Cancer Institute
+License: GNU GPL 2.0
+"""
+# import relavant libraries
 import spacy
 import re
 import argparse
